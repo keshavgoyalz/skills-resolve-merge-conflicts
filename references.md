@@ -1,3 +1,2 @@
-# References
+This is a conflicted file
 
-* octocat 1 😈
